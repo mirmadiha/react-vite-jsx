@@ -16,6 +16,3 @@ npm run dev
 
 * React
 * Vite
-
-```
-
