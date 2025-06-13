@@ -1,5 +1,3 @@
-## ✅ Minimal `README.md`
-
 ````md
 # React + Vite Starter
 
