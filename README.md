@@ -1,7 +1,7 @@
 ````md
 # React + Vite Starter
 
-This is a starter project using React and Vite. Setup is complete — development will begin soon.
+A simple project in progress — learning and building React one step at a time.
 
 ## Getting Started
 
