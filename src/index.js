@@ -10,11 +10,8 @@ const root=ReactDOM.createRoot(el);
 
 //Create a component
 function App(){
-    const name="John";
-    const age=25;
-
     return(
-        <h3>Hi! My name is {name} and my age is {age}</h3>
+        <h3><input type="number" style={{border:"3px solid blue"}}/></h3>
     )
 }
 
