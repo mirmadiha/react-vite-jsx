@@ -11,7 +11,8 @@ const root=ReactDOM.createRoot(el);
 //Create a component
 function App(){
     return(
-        <h3><input type="number" style={{border:"3px solid blue"}}/></h3>
+        //object cannot be displayed but can be used as a prop
+        <h3><input placeHolder="write your name"/></h3> 
     )
 }
 
